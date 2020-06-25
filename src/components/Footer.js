@@ -16,7 +16,7 @@ const Footer = ({ className }) => {
         className="fullWidthSmallScreens col1"
         margin="0px 20px"
       >
-        <img src={icon} className="logo" />
+        <img alt="elmenues" src={icon} className="logo" />
         <p className="text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -91,6 +91,7 @@ export default styled(Footer)`
   .text {
     font-size: 0.8rem;
     color: #0e0e0e;
+    cursor: pointer;
   }
   .title {
     font-weight: 700;

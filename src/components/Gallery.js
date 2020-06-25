@@ -42,7 +42,7 @@ const Gallery = ({ className }) => {
     <FlexContainer className={className}>
       {Array.from(Array(12)).map((x, i) => {
         return getImageCard({
-          src: i % 2 == 1 ? pasta : pizza,
+          src: i % 2 === 1 ? pasta : pizza,
           tags: "yummy.food.burger",
           restaurantName: "Restaurant " + i,
         });

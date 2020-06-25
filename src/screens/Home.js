@@ -1,7 +1,5 @@
-import React, { useContext } from "react";
-import data from "../data.json";
+import React from "react";
 import FlexContainer from "../elements/FlexContainer";
-import { SearchContext } from "../contexts/SearchContext";
 import styled from "styled-components";
 // import { FaMotorcycle } from "react-icons/fa";
 import Banner from "../components/Banner";

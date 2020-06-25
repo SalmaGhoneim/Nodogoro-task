@@ -16,6 +16,8 @@ const iconTitle = ({ icon, title }) => (
 );
 
 const Sidebar = ({ className }) => {
+  // TODO
+  // contains all ids
   const [choicesIds, setChoicesId] = useState([]);
 
   return (

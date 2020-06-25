@@ -11,6 +11,7 @@ import { RiFilterLine } from "react-icons/ri";
 import { RiShoppingBag3Line } from "react-icons/ri";
 import { LanguageContext } from "../contexts/LanguageContext";
 import { SearchContext } from "../contexts/SearchContext";
+import data from "../data.json";
 
 const BigButton = styled.button`
   height: 100%;
@@ -98,7 +99,7 @@ const Header = ({ className }) => {
           margin="10px 0px"
           justifyContent="space-evenly"
         >
-          <img className="logoSmall" src={logoSmall} />
+          <img alt="elmenues" className="logoSmall" src={logoSmall} />
           <input
             className="search"
             type="text"
@@ -114,7 +115,7 @@ const Header = ({ className }) => {
         <FlexContainer className="big" height="100%" width="100%">
           {/* Big Screens */}
           <FlexContainer height="100%" width="100%">
-            <img className="logo" src={logo} />
+            <img alt="logo" className="logo" src={logo} />
             <BigButton
               // 0 should be id
               onClick={() => setSelectedTab(0)}
@@ -159,7 +160,7 @@ const Header = ({ className }) => {
         >
           <FaMotorcycle className="motorCycle" />
           <h2 className="font">
-            Deliver to <span className="orange"> New Cairo </span>
+            Deliver to <span className="orange"> {data.currentLocation} </span>
           </h2>
           <button className="change">Change</button>
         </FlexContainer>
