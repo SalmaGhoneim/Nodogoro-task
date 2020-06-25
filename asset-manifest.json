@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Nodogoro-task/static/js/main.453d9c1d.chunk.js",
-    "main.js.map": "/Nodogoro-task/static/js/main.453d9c1d.chunk.js.map",
+    "main.js": "/Nodogoro-task/static/js/main.9fb95ee2.chunk.js",
+    "main.js.map": "/Nodogoro-task/static/js/main.9fb95ee2.chunk.js.map",
     "runtime-main.js": "/Nodogoro-task/static/js/runtime-main.2c618223.js",
     "runtime-main.js.map": "/Nodogoro-task/static/js/runtime-main.2c618223.js.map",
-    "static/js/2.5a7fdfd3.chunk.js": "/Nodogoro-task/static/js/2.5a7fdfd3.chunk.js",
-    "static/js/2.5a7fdfd3.chunk.js.map": "/Nodogoro-task/static/js/2.5a7fdfd3.chunk.js.map",
+    "static/js/2.39ef3bbb.chunk.js": "/Nodogoro-task/static/js/2.39ef3bbb.chunk.js",
+    "static/js/2.39ef3bbb.chunk.js.map": "/Nodogoro-task/static/js/2.39ef3bbb.chunk.js.map",
     "index.html": "/Nodogoro-task/index.html",
-    "precache-manifest.ebf0fdd73d9ab0da30e760b197228625.js": "/Nodogoro-task/precache-manifest.ebf0fdd73d9ab0da30e760b197228625.js",
+    "precache-manifest.5e98a36bbf65a3a4409c784ac5618aa6.js": "/Nodogoro-task/precache-manifest.5e98a36bbf65a3a4409c784ac5618aa6.js",
     "service-worker.js": "/Nodogoro-task/service-worker.js",
-    "static/js/2.5a7fdfd3.chunk.js.LICENSE.txt": "/Nodogoro-task/static/js/2.5a7fdfd3.chunk.js.LICENSE.txt",
+    "static/js/2.39ef3bbb.chunk.js.LICENSE.txt": "/Nodogoro-task/static/js/2.39ef3bbb.chunk.js.LICENSE.txt",
     "static/media/burger.png": "/Nodogoro-task/static/media/burger.39c53a5a.png",
     "static/media/logo-pic-only.png": "/Nodogoro-task/static/media/logo-pic-only.21f0e8a7.png",
     "static/media/logo.png": "/Nodogoro-task/static/media/logo.49d7eb49.png",
@@ -19,7 +19,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2c618223.js",
-    "static/js/2.5a7fdfd3.chunk.js",
-    "static/js/main.453d9c1d.chunk.js"
+    "static/js/2.39ef3bbb.chunk.js",
+    "static/js/main.9fb95ee2.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nodogoro-task/precache-manifest.ebf0fdd73d9ab0da30e760b197228625.js"
+  "/Nodogoro-task/precache-manifest.5e98a36bbf65a3a4409c784ac5618aa6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e5c85149d0fca7f7e21d557c716bd7b",
+    "revision": "3b82acc77f934defe3b2686a0b17444e",
     "url": "/Nodogoro-task/index.html"
   },
   {
-    "revision": "aec23f364da5b89b5d71",
-    "url": "/Nodogoro-task/static/js/2.5a7fdfd3.chunk.js"
+    "revision": "44c3391848f9bed7c677",
+    "url": "/Nodogoro-task/static/js/2.39ef3bbb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Nodogoro-task/static/js/2.5a7fdfd3.chunk.js.LICENSE.txt"
+    "url": "/Nodogoro-task/static/js/2.39ef3bbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "988e32aed1ce17ff8cdc",
-    "url": "/Nodogoro-task/static/js/main.453d9c1d.chunk.js"
+    "revision": "e2ffc4935fe22afa636d",
+    "url": "/Nodogoro-task/static/js/main.9fb95ee2.chunk.js"
   },
   {
     "revision": "57920c5f736d573556d1",
